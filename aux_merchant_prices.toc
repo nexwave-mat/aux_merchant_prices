@@ -2,6 +2,8 @@
 ## Author: shirsig
 ## Title: aux merchant prices
 ## Notes: aux merchant prices
+## Version: 1
 ## Dependencies: aux-addon
 ## SavedVariables: aux_merchant_prices_imported
+
 aux_merchant_prices.lua
